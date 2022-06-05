@@ -51,6 +51,16 @@ to generate your code examples.
 
 {: #css}
 ###### CSS Code Example
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
 
 ```css
 /* ======= Base Styling ======= */
@@ -62,6 +72,2149 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 ```
+
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+
+
+
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+```css
+/* ======= Base Styling ======= */
+body {
+    font-family: 'Open Sans', arial, sans-serif;
+    color: #333;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
 
 
 {: #less}
